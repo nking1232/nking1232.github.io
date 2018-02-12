@@ -1,0 +1,20 @@
+footer {
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 0;
+    position: fixed;
+    width: auto;
+    overflow: auto;
+    text-align: center;
+    background-color: black;
+    width: auto;
+    margin: 0px;
+    color: #FFF;
+}
+body{
+	background-image: url("../desert.jpeg");
+}
